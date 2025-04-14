@@ -15,7 +15,7 @@ const Navbar = () => {
           {/* Logo/Brand */}
           <div className="flex-shrink-0">
             <Link href="/" className="text-4xl font-bold text-gray-800 dark:text-white">
-              DhanRashi
+              ChattyBot
             </Link>
           </div>
 
